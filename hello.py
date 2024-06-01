@@ -1,0 +1,1 @@
+print("halo nama saya andhika malik")
